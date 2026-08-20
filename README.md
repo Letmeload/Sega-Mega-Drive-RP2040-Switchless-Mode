@@ -6,6 +6,6 @@ You should also install the two resistors—10k and 4.7k—to increase the chip�
 
 How to flash the RP2040 tiny:
 
-Hold the Boot Button and connect it to the computer. A Datadrive appear, there you have to copy the .uf2 file. Thats ist.
+Hold the Boot Button and connect it to the computer. A Datadrive appear, there you have to copy the .uf2 file. Thats it.
 
 <img width="3024" height="4032" alt="Verkabelung" src="https://github.com/user-attachments/assets/c32b7059-b4b0-4f3c-9415-d71efbf60533" />
